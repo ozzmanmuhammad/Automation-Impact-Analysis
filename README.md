@@ -1,4 +1,4 @@
-# README
+# Occupations, Education and Salaries by State and Likelihood of Automation
 
 The following README provides an overview of the project "Occupations, Salaries by State and Likelihood of Automation" along with necessary instructions to run the code. The project aims to analyze various datasets related to occupations, salaries, education levels, and the likelihood of automation.
 
